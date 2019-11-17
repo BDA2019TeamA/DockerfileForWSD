@@ -32,12 +32,12 @@ echo "テスト" | juman | knp
 
 ```python
 from natto import MeCab
-parser = MeCab("-d /usr/lib/x86_64-linux-gnu/mecab/dic/mecab-ipadic-neologd")
-
 import CaboCha
 import pyknp
 from crepedb import CrepeDB
 ```
+
+how to use -> [NLPLibrary](https://github.com/BDA2019TeamA/NLPLibrary) [CrepeDB](https://github.com/BDA2019TeamA/CrepeDB)
 
 ## 環境
 
